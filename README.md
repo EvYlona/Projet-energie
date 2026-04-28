@@ -1,6 +1,6 @@
 # Analyse du mix énergétique français — Power BI
 
-Ce projet présente une analyse de la **production et consommation d'énergie en France** sur la période 2013–2024, réalisée avec **Power BI**. Il s'articule autour de trois rapports complémentaires, couvrant les dimensions nationales, régionales et météorologiques de la transition énergétique.
+Ce projet de groupe effectué au cours de ma formation de Data Analyst présente une analyse de la **production et consommation d'énergie en France** sur la période 2013–2024, réalisée avec **Power BI**. Il s'articule autour de trois rapports complémentaires, couvrant les dimensions nationales, régionales et météorologiques de la transition énergétique.
 
 Les données utilisées proviennent de sources publiques (ODRE) et portent sur la production par filière (nucléaire, hydraulique, éolien, solaire, thermique, bioénergies), la consommation nationale et régionale, ainsi que les facteurs météorologiques associés.
 
