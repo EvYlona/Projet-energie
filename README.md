@@ -56,7 +56,7 @@ Ce graphique suit le rapport entre production et consommation nationales année 
 
 ---
 
-## 📌 Rapport 2 — Analyse régionale avec indicateur démographique
+## Rapport 2 — Analyse régionale avec indicateur démographique
 
 > **Problématique : Quelles régions sont indépendantes énergétiquement ? Dans quelles régions les ENR sont-elles à développer ? La densité de population influence-t-elle la production et la consommation ?**
 
@@ -96,7 +96,7 @@ Ces trois indicateurs synthétisent l'équilibre énergétique national en disti
 
 ---
 
-## 📌 Rapport 3 — Analyse en fonction des données météorologiques
+## Rapport 3 — Analyse en fonction des données météorologiques
 
 > **Problématique : Les ENR sont-elles dépendantes des conditions météorologiques ? Quelle est leur évolution sur la période ? Peut-on constater une progression significative ?**
 
@@ -136,7 +136,7 @@ Ce graphique interactif affiche la répartition des ENR dans le mix selon la fil
 
 ---
 
-## 🛠️ Outils & compétences mobilisés
+## Outils & compétences mobilisés
 
 Préparation des données — Python (VS Code)
 Avant toute intégration dans Power BI, les fichiers sources (fichiers Excel individuels) ont été nettoyés et standardisés via un script Python utilisant pandas :
