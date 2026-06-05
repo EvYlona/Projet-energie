@@ -20,7 +20,7 @@ Les données utilisées proviennent de sources publiques (ODRE) et portent sur l
 
 > **Problématique : Quelle est la production et consommation française moyenne annuelle ? Quelle est la part des différentes filières ? Quel a été le taux de couverture au fil des années ?**
 
-![Vue d'ensemble Dashboard 1](Rapport_Projet_Energie.pdf)
+![Vue d'ensemble Dashboard 1](Images/Vue d'ensemble Dashboard 1.png)
 
 ---
 
