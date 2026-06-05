@@ -20,7 +20,7 @@ Les données utilisées proviennent de sources publiques (ODRE) et portent sur l
 
 > **Problématique : Quelle est la production et consommation française moyenne annuelle ? Quelle est la part des différentes filières ? Quel a été le taux de couverture au fil des années ?**
 
-![Vue d'ensemble Dashboard 1](Images/Vue d'ensemble Dashboard 1.png)
+![Vue d'ensemble Dashboard 1](Images/Vue_d'ensemble_Dashboard_1.png)
 
 ---
 
@@ -60,7 +60,7 @@ Ce graphique suit le rapport entre production et consommation nationales année 
 
 > **Problématique : Quelles régions sont indépendantes énergétiquement ? Dans quelles régions les ENR sont-elles à développer ? La densité de population influence-t-elle la production et la consommation ?**
 
-![Vue d'ensemble Dashboard 2](Rapport_Projet_Energie.pdf)
+![Vue d'ensemble Dashboard 2](Vue_d'ensemble_Dashboard_2.png)
 
 ---
 
@@ -100,7 +100,7 @@ Ces trois indicateurs synthétisent l'équilibre énergétique national en disti
 
 > **Problématique : Les ENR sont-elles dépendantes des conditions météorologiques ? Quelle est leur évolution sur la période ? Peut-on constater une progression significative ?**
 
-![Vue d'ensemble Dashboard 3](Rapport_Projet_Energie.pdf)
+![Vue d'ensemble Dashboard 3](Vue_d'ensemble_Dashboard_3.png)
 
 ---
 
