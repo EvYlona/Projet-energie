@@ -60,7 +60,7 @@ Ce graphique suit le rapport entre production et consommation nationales année 
 
 > **Problématique : Quelles régions sont indépendantes énergétiquement ? Dans quelles régions les ENR sont-elles à développer ? La densité de population influence-t-elle la production et la consommation ?**
 
-![Vue d'ensemble Dashboard 2](Vue_d'ensemble_Dashboard_2.png)
+![Vue d'ensemble Dashboard 2](Images/Vue_d'ensemble_Dashboard_2.png)
 
 ---
 
@@ -100,7 +100,7 @@ Ces trois indicateurs synthétisent l'équilibre énergétique national en disti
 
 > **Problématique : Les ENR sont-elles dépendantes des conditions météorologiques ? Quelle est leur évolution sur la période ? Peut-on constater une progression significative ?**
 
-![Vue d'ensemble Dashboard 3](Vue_d'ensemble_Dashboard_3.png)
+![Vue d'ensemble Dashboard 3](Images/Vue_d'ensemble_Dashboard_3.png)
 
 ---
 
